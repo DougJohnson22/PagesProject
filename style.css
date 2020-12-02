@@ -1,0 +1,13 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+.t-rex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+}
